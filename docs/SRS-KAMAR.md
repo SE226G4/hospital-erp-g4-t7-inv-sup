@@ -45,6 +45,8 @@
 ![Wireframe](image-wirframe/Order-Management-Screen.png)
 -  شاشة إدارة الموارد (Resource Management Screen) 
 ![Wireframe](image-wirframe/Resource-Management-Screen.png)
+https://www.figma.com/design/oohGi7dTOWP2N2MkZEuSjd/Untitled?node-id=0-1&t=p4p38MuGryggARe3-1
+
 
 
 
